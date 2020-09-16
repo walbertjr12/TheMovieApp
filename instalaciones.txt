@@ -1,0 +1,6 @@
+yarn add react-native-paper
+
+yarn add react-native-vector-icons 
+
+//Es parte de la configuración
+react-native link react-native-vector-icons
