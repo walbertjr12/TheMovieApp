@@ -4,6 +4,11 @@ yarn add @react-navigation/native
 yarn add react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
 yarn add @react-navigation/stack
 yarn add @react-navigation/drawer
+yarn add react-native-snap-carousel
+yarn add lodash
+yarn add react-native-youtube
+yarn add react-native-webview
+yarn add react-native-ratings
 
 //Es parte de la configuración
 react-native link react-native-vector-icons
