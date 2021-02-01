@@ -1,4 +1,4 @@
-package com.themovieapp;
+package com.walbertjr.themovies;
 
 import com.facebook.react.ReactActivity;
 
